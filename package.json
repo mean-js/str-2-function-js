@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parse-function": "^5.2.10"
+    "eval": "^0.1.2",
+    "moment": "^2.22.1",
+    "parse-function": "^5.2.10",
+    "safe-eval": "^0.3.0"
   }
 }
