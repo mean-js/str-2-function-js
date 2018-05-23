@@ -1,0 +1,14 @@
+{
+  "name": "parse-string-2-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-function": "^5.2.10"
+  }
+}
